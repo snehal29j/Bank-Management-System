@@ -1,2 +1,3 @@
 # Bank-Management-System
-Java , MySQL
+Java (AWT, Swing) , MySQL
+
